@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head> <title>team details</title>
-    <body align="center"><b>The Shield(team details)</b>
-    <table border=2>  
+<head> 
+   <title>team details</title>
+</head>
+   <body align="center">
+   <b>The Shield(team details)</b>
+   <table border=2>  
    <tr>
    <td><b>SR.NO.</b></td>
    <td><b>NAME</b></td>
@@ -12,7 +15,7 @@
    <td><b>PHONE NO.</b></td>   
    </tr>
    <tr>
-    <td><b>1.</b></td>
+   <td><b>1.</b></td>
    <td>Dhruvik Patel</td>
    <td>LDCE</td>
    <td>3</td>
@@ -43,9 +46,6 @@
    <td>Janvi-Thakkar</td>
    <td>8320996025</td>  
    </tr>
-    </table>
-    
-    
-    </body>
-
-</html>
+   </table>
+   </body>
+   </html>
